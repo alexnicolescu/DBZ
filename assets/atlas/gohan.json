@@ -1,0 +1,375 @@
+{
+"frames": {
+	"gohan_01.png": {
+		"frame": {"x":352, "y":355, "w":23, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":23,"h":44},
+		"sourceSize": {"w":23,"h":44}
+	},
+	"gohan_02.png": {
+		"frame": {"x":356, "y":132, "w":23, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":23,"h":44},
+		"sourceSize": {"w":23,"h":44}
+	},
+	"gohan_03.png": {
+		"frame": {"x":356, "y":226, "w":22, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":22,"h":44},
+		"sourceSize": {"w":22,"h":44}
+	},
+	"gohan_04.png": {
+		"frame": {"x":304, "y":44, "w":28, "h":39},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":39},
+		"sourceSize": {"w":28,"h":39}
+	},
+	"gohan_05.png": {
+		"frame": {"x":327, "y":233, "w":28, "h":39},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":39},
+		"sourceSize": {"w":28,"h":39}
+	},
+	"gohan_06.png": {
+		"frame": {"x":271, "y":45, "w":32, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":32,"h":40},
+		"sourceSize": {"w":32,"h":40}
+	},
+	"gohan_07.png": {
+		"frame": {"x":66, "y":223, "w":51, "h":29},
+		"spriteSourceSize": {"x":0,"y":0,"w":51,"h":29},
+		"sourceSize": {"w":51,"h":29}
+	},
+	"gohan_08.png": {
+		"frame": {"x":53, "y":378, "w":51, "h":22},
+		"spriteSourceSize": {"x":0,"y":0,"w":51,"h":22},
+		"sourceSize": {"w":51,"h":22}
+	},
+	"gohan_09.png": {
+		"frame": {"x":236, "y":195, "w":34, "h":35},
+		"spriteSourceSize": {"x":0,"y":0,"w":34,"h":35},
+		"sourceSize": {"w":34,"h":35}
+	},
+	"gohan_10.png": {
+		"frame": {"x":200, "y":149, "w":36, "h":45},
+		"spriteSourceSize": {"x":0,"y":0,"w":36,"h":45},
+		"sourceSize": {"w":36,"h":45}
+	},
+	"gohan_11.png": {
+		"frame": {"x":271, "y":86, "w":31, "h":42},
+		"spriteSourceSize": {"x":0,"y":0,"w":31,"h":42},
+		"sourceSize": {"w":31,"h":42}
+	},
+	"gohan_12.png": {
+		"frame": {"x":327, "y":355, "w":24, "h":42},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":42},
+		"sourceSize": {"w":24,"h":42}
+	},
+	"gohan_13.png": {
+		"frame": {"x":356, "y":177, "w":23, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":23,"h":48},
+		"sourceSize": {"w":23,"h":48}
+	},
+	"gohan_14.png": {
+		"frame": {"x":271, "y":234, "w":25, "h":38},
+		"spriteSourceSize": {"x":0,"y":0,"w":25,"h":38},
+		"sourceSize": {"w":25,"h":38}
+	},
+	"gohan_15.png": {
+		"frame": {"x":235, "y":74, "w":35, "h":43},
+		"spriteSourceSize": {"x":0,"y":0,"w":35,"h":43},
+		"sourceSize": {"w":35,"h":43}
+	},
+	"gohan_16.png": {
+		"frame": {"x":265, "y":353, "w":32, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":32,"h":40},
+		"sourceSize": {"w":32,"h":40}
+	},
+	"gohan_17.png": {
+		"frame": {"x":115, "y":320, "w":46, "h":23},
+		"spriteSourceSize": {"x":0,"y":0,"w":46,"h":23},
+		"sourceSize": {"w":46,"h":23}
+	},
+	"gohan_18.png": {
+		"frame": {"x":105, "y":356, "w":46, "h":25},
+		"spriteSourceSize": {"x":0,"y":0,"w":46,"h":25},
+		"sourceSize": {"w":46,"h":25}
+	},
+	"gohan_19.png": {
+		"frame": {"x":307, "y":0, "w":28, "h":41},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":41},
+		"sourceSize": {"w":28,"h":41}
+	},
+	"gohan_20.png": {
+		"frame": {"x":152, "y":344, "w":39, "h":43},
+		"spriteSourceSize": {"x":0,"y":0,"w":39,"h":43},
+		"sourceSize": {"w":39,"h":43}
+	},
+	"gohan_21.png": {
+		"frame": {"x":303, "y":86, "w":28, "h":42},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":42},
+		"sourceSize": {"w":28,"h":42}
+	},
+	"gohan_22.png": {
+		"frame": {"x":120, "y":149, "w":40, "h":41},
+		"spriteSourceSize": {"x":0,"y":0,"w":40,"h":41},
+		"sourceSize": {"w":40,"h":41}
+	},
+	"gohan_23.png": {
+		"frame": {"x":327, "y":273, "w":27, "h":39},
+		"spriteSourceSize": {"x":0,"y":0,"w":27,"h":39},
+		"sourceSize": {"w":27,"h":39}
+	},
+	"gohan_24.png": {
+		"frame": {"x":200, "y":195, "w":35, "h":42},
+		"spriteSourceSize": {"x":0,"y":0,"w":35,"h":42},
+		"sourceSize": {"w":35,"h":42}
+	},
+	"gohan_25.png": {
+		"frame": {"x":200, "y":238, "w":35, "h":42},
+		"spriteSourceSize": {"x":0,"y":0,"w":35,"h":42},
+		"sourceSize": {"w":35,"h":42}
+	},
+	"gohan_26.png": {
+		"frame": {"x":116, "y":253, "w":45, "h":36},
+		"spriteSourceSize": {"x":0,"y":0,"w":45,"h":36},
+		"sourceSize": {"w":45,"h":36}
+	},
+	"gohan_27.png": {
+		"frame": {"x":162, "y":306, "w":28, "h":37},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":37},
+		"sourceSize": {"w":28,"h":37}
+	},
+	"gohan_28.png": {
+		"frame": {"x":66, "y":320, "w":48, "h":35},
+		"spriteSourceSize": {"x":0,"y":0,"w":48,"h":35},
+		"sourceSize": {"w":48,"h":35}
+	},
+	"gohan_29.png": {
+		"frame": {"x":302, "y":129, "w":28, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":44},
+		"sourceSize": {"w":28,"h":44}
+	},
+	"gohan_30.png": {
+		"frame": {"x":66, "y":187, "w":52, "h":35},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":35},
+		"sourceSize": {"w":52,"h":35}
+	},
+	"gohan_31.png": {
+		"frame": {"x":161, "y":149, "w":38, "h":33},
+		"spriteSourceSize": {"x":0,"y":0,"w":38,"h":33},
+		"sourceSize": {"w":38,"h":33}
+	},
+	"gohan_32.png": {
+		"frame": {"x":336, "y":0, "w":24, "h":43},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":43},
+		"sourceSize": {"w":24,"h":43}
+	},
+	"gohan_33.png": {
+		"frame": {"x":229, "y":367, "w":33, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":33,"h":32},
+		"sourceSize": {"w":33,"h":32}
+	},
+	"gohan_34.png": {
+		"frame": {"x":237, "y":159, "w":32, "h":27},
+		"spriteSourceSize": {"x":0,"y":0,"w":32,"h":27},
+		"sourceSize": {"w":32,"h":27}
+	},
+	"gohan_35.png": {
+		"frame": {"x":278, "y":0, "w":28, "h":43},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":43},
+		"sourceSize": {"w":28,"h":43}
+	},
+	"gohan_36.png": {
+		"frame": {"x":66, "y":149, "w":53, "h":37},
+		"spriteSourceSize": {"x":0,"y":0,"w":53,"h":37},
+		"sourceSize": {"w":53,"h":37}
+	},
+	"gohan_37.png": {
+		"frame": {"x":0, "y":149, "w":65, "h":75},
+		"spriteSourceSize": {"x":0,"y":0,"w":65,"h":75},
+		"sourceSize": {"w":65,"h":75}
+	},
+	"gohan_38.png": {
+		"frame": {"x":0, "y":301, "w":65, "h":76},
+		"spriteSourceSize": {"x":0,"y":0,"w":65,"h":76},
+		"sourceSize": {"w":65,"h":76}
+	},
+	"gohan_39.png": {
+		"frame": {"x":298, "y":331, "w":28, "h":41},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":41},
+		"sourceSize": {"w":28,"h":41}
+	},
+	"gohan_40.png": {
+		"frame": {"x":162, "y":266, "w":37, "h":39},
+		"spriteSourceSize": {"x":0,"y":0,"w":37,"h":39},
+		"sourceSize": {"w":37,"h":39}
+	},
+	"gohan_41.png": {
+		"frame": {"x":162, "y":225, "w":37, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":37,"h":40},
+		"sourceSize": {"w":37,"h":40}
+	},
+	"gohan_42.png": {
+		"frame": {"x":270, "y":159, "w":31, "h":32},
+		"spriteSourceSize": {"x":0,"y":0,"w":31,"h":32},
+		"sourceSize": {"w":31,"h":32}
+	},
+	"gohan_43.png": {
+		"frame": {"x":105, "y":382, "w":43, "h":19},
+		"spriteSourceSize": {"x":0,"y":0,"w":43,"h":19},
+		"sourceSize": {"w":43,"h":19}
+	},
+	"gohan_44.png": {
+		"frame": {"x":66, "y":272, "w":49, "h":47},
+		"spriteSourceSize": {"x":0,"y":0,"w":49,"h":47},
+		"sourceSize": {"w":49,"h":47}
+	},
+	"gohan_45.png": {
+		"frame": {"x":118, "y":223, "w":42, "h":22},
+		"spriteSourceSize": {"x":0,"y":0,"w":42,"h":22},
+		"sourceSize": {"w":42,"h":22}
+	},
+	"gohan_46.png": {
+		"frame": {"x":116, "y":290, "w":42, "h":22},
+		"spriteSourceSize": {"x":0,"y":0,"w":42,"h":22},
+		"sourceSize": {"w":42,"h":22}
+	},
+	"gohan_47.png": {
+		"frame": {"x":244, "y":0, "w":33, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":33,"h":44},
+		"sourceSize": {"w":33,"h":44}
+	},
+	"gohan_48.png": {
+		"frame": {"x":271, "y":192, "w":29, "h":41},
+		"spriteSourceSize": {"x":0,"y":0,"w":29,"h":41},
+		"sourceSize": {"w":29,"h":41}
+	},
+	"gohan_49.png": {
+		"frame": {"x":265, "y":275, "w":32, "h":38},
+		"spriteSourceSize": {"x":0,"y":0,"w":32,"h":38},
+		"sourceSize": {"w":32,"h":38}
+	},
+	"gohan_50.png": {
+		"frame": {"x":265, "y":314, "w":32, "h":38},
+		"spriteSourceSize": {"x":0,"y":0,"w":32,"h":38},
+		"sourceSize": {"w":32,"h":38}
+	},
+	"gohan_51.png": {
+		"frame": {"x":192, "y":348, "w":36, "h":42},
+		"spriteSourceSize": {"x":0,"y":0,"w":36,"h":42},
+		"sourceSize": {"w":36,"h":42}
+	},
+	"gohan_52.png": {
+		"frame": {"x":119, "y":191, "w":32, "h":27},
+		"spriteSourceSize": {"x":0,"y":0,"w":32,"h":27},
+		"sourceSize": {"w":32,"h":27}
+	},
+	"gohan_53.png": {
+		"frame": {"x":327, "y":313, "w":26, "h":41},
+		"spriteSourceSize": {"x":0,"y":0,"w":26,"h":41},
+		"sourceSize": {"w":26,"h":41}
+	},
+	"gohan_54.png": {
+		"frame": {"x":66, "y":253, "w":49, "h":18},
+		"spriteSourceSize": {"x":0,"y":0,"w":49,"h":18},
+		"sourceSize": {"w":49,"h":18}
+	},
+	"gohan_55.png": {
+		"frame": {"x":301, "y":192, "w":28, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":40},
+		"sourceSize": {"w":28,"h":40}
+	},
+	"gohan_56.png": {
+		"frame": {"x":192, "y":306, "w":36, "h":41},
+		"spriteSourceSize": {"x":0,"y":0,"w":36,"h":41},
+		"sourceSize": {"w":36,"h":41}
+	},
+	"gohan_57.png": {
+		"frame": {"x":161, "y":183, "w":38, "h":41},
+		"spriteSourceSize": {"x":0,"y":0,"w":38,"h":41},
+		"sourceSize": {"w":38,"h":41}
+	},
+	"gohan_58.png": {
+		"frame": {"x":237, "y":118, "w":33, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":33,"h":40},
+		"sourceSize": {"w":33,"h":40}
+	},
+	"gohan_59.png": {
+		"frame": {"x":229, "y":325, "w":35, "h":41},
+		"spriteSourceSize": {"x":0,"y":0,"w":35,"h":41},
+		"sourceSize": {"w":35,"h":41}
+	},
+	"gohan_60.png": {
+		"frame": {"x":229, "y":281, "w":35, "h":43},
+		"spriteSourceSize": {"x":0,"y":0,"w":35,"h":43},
+		"sourceSize": {"w":35,"h":43}
+	},
+	"gohan_61.png": {
+		"frame": {"x":0, "y":74, "w":234, "h":74},
+		"spriteSourceSize": {"x":0,"y":0,"w":234,"h":74},
+		"sourceSize": {"w":234,"h":74}
+	},
+	"gohan_62.png": {
+		"frame": {"x":278, "y":0, "w":28, "h":43},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":43},
+		"sourceSize": {"w":28,"h":43}
+	},
+	"gohan_63.png": {
+		"frame": {"x":298, "y":282, "w":28, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":48},
+		"sourceSize": {"w":28,"h":48}
+	},
+	"gohan_64.png": {
+		"frame": {"x":298, "y":234, "w":28, "h":47},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":47},
+		"sourceSize": {"w":28,"h":47}
+	},
+	"gohan_65.png": {
+		"frame": {"x":0, "y":225, "w":65, "h":75},
+		"spriteSourceSize": {"x":0,"y":0,"w":65,"h":75},
+		"sourceSize": {"w":65,"h":75}
+	},
+	"gohan_66.png": {
+		"frame": {"x":236, "y":231, "w":34, "h":43},
+		"spriteSourceSize": {"x":0,"y":0,"w":34,"h":43},
+		"sourceSize": {"w":34,"h":43}
+	},
+	"gohan_67.png": {
+		"frame": {"x":330, "y":174, "w":25, "h":47},
+		"spriteSourceSize": {"x":0,"y":0,"w":25,"h":47},
+		"sourceSize": {"w":25,"h":47}
+	},
+	"gohan_68.png": {
+		"frame": {"x":332, "y":84, "w":24, "h":47},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":47},
+		"sourceSize": {"w":24,"h":47}
+	},
+	"gohan_69.png": {
+		"frame": {"x":0, "y":0, "w":243, "h":73},
+		"spriteSourceSize": {"x":0,"y":0,"w":243,"h":73},
+		"sourceSize": {"w":243,"h":73}
+	},
+	"gohan_70.png": {
+		"frame": {"x":376, "y":318, "w":21, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":21,"h":48},
+		"sourceSize": {"w":21,"h":48}
+	},
+	"gohan_71.png": {
+		"frame": {"x":355, "y":273, "w":23, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":23,"h":44},
+		"sourceSize": {"w":23,"h":44}
+	},
+	"gohan_72.png": {
+		"frame": {"x":357, "y":44, "w":22, "h":48},
+		"spriteSourceSize": {"x":0,"y":0,"w":22,"h":48},
+		"sourceSize": {"w":22,"h":48}
+	},
+	"gohan_73.png": {
+		"frame": {"x":0, "y":378, "w":52, "h":20},
+		"spriteSourceSize": {"x":0,"y":0,"w":52,"h":20},
+		"sourceSize": {"w":52,"h":20}
+	}
+
+},
+"meta": {
+	"image": "gohan.png",
+	"size": {"w": 398, "h": 402},
+	"scale": "1"
+}
+}
